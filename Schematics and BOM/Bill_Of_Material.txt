@@ -1,0 +1,65 @@
+Partlist exported from D:/OneDrive/eagle/8x8_dot_matrix/8x8_dot_matrix.sch at 15.9.2017 20:00
+
+Part Value          Device          Package        Description                        MF MPN OC_FARNELL OC_NEWARK
+C1   100n           C-EU050-024X044 C050-024X044   CAPACITOR, European symbol                                    
+C2   100n           C-EU050-024X044 C050-024X044   CAPACITOR, European symbol                                    
+C3   100n           C-EU050-024X044 C050-024X044   CAPACITOR, European symbol                                    
+C4   100n           C-EU050-024X044 C050-024X044   CAPACITOR, European symbol                                    
+C5   100n           C-EUC0805       C0805          CAPACITOR, European symbol                                    
+D1   1N4148-2       1N4148-2        DO35-2         Fast Switching Diode                                          
+D2   1N4148-3       1N4148-3        DO35-3         Fast Switching Diode                                          
+D3   1N4148-2       1N4148-2        DO35-2         Fast Switching Diode                                          
+D4   1N4148-2       1N4148-2        DO35-2         Fast Switching Diode                                          
+D5   1N4148-2       1N4148-2        DO35-2         Fast Switching Diode                                          
+IC1  74HC595N       74HC595N        DIL16          8-bit SHIFT REGISTER, output latch                            
+IC2  74HC595N       74HC595N        DIL16          8-bit SHIFT REGISTER, output latch                            
+IC3  74HC595N       74HC595N        DIL16          8-bit SHIFT REGISTER, output latch                            
+IC4  4017N          4017N           DIL16          COUNTER/DIVIDER                                               
+IC5  UDN2982A       UDN2982A        DIL18          DRIVER ARRAY                                                  
+LED1 ORM-2088-RGB-5 ORM-2088-RGB-5  ORM-2088-RGB-5 ORM 2088RGB-5 8x8 LED RGB Matrix                              
+R1   75             7MM             0703           7mm Resistors                                                 
+R2   75             7MM             0703           7mm Resistors                                                 
+R3   75             7MM             0703           7mm Resistors                                                 
+R4   75             7MM             0703           7mm Resistors                                                 
+R5   75             7MM             0703           7mm Resistors                                                 
+R6   75             7MM             0703           7mm Resistors                                                 
+R7   75             7MM             0703           7mm Resistors                                                 
+R8   75             7MM             0703           7mm Resistors                                                 
+R9   220            R-EU_0204/5     0204/5         RESISTOR, European symbol                                     
+R10  220            R-EU_0204/5     0204/5         RESISTOR, European symbol                                     
+R11  220            R-EU_0204/5     0204/5         RESISTOR, European symbol                                     
+R12  220            R-EU_0204/5     0204/5         RESISTOR, European symbol                                     
+R13  220            R-EU_0204/5     0204/5         RESISTOR, European symbol                                     
+R14  220            R-EU_0204/5     0204/5         RESISTOR, European symbol                                     
+R15  220            R-EU_0204/5     0204/5         RESISTOR, European symbol                                     
+R16  220            R-EU_0204/5     0204/5         RESISTOR, European symbol                                     
+R17  75             7MM             0703           7mm Resistors                                                 
+R18  75             7MM             0703           7mm Resistors                                                 
+R19  75             7MM             0703           7mm Resistors                                                 
+R20  75             7MM             0703           7mm Resistors                                                 
+R21  75             7MM             0703           7mm Resistors                                                 
+R22  75             7MM             0703           7mm Resistors                                                 
+R23  75             7MM             0703           7mm Resistors                                                 
+R24  75             7MM             0703           7mm Resistors                                                 
+R25  220            7MM             0703           7mm Resistors                                                 
+R26  220            7MM             0703           7mm Resistors                                                 
+R27  220            7MM             0703           7mm Resistors                                                 
+R28  220            R-EU_0207/10    0207/10        RESISTOR, European symbol                                     
+R29  220            7MM             0703           7mm Resistors                                                 
+S1   DTSM-6         DTSM-6          DTSM-6                                                                       
+S2   DTSM-6         DTSM-6          DTSM-6                                                                       
+S3   DTSM-6         DTSM-6          DTSM-6                                                                       
+S4   DTSM-6         DTSM-6          DTSM-6                                                                       
+S5   DTSM-6         DTSM-6          DTSM-6                                                                       
+S6   DTSM-6         DTSM-6          DTSM-6                                                                       
+S7   DTSM-6         DTSM-6          DTSM-6                                                                       
+S8   DTSM-6         DTSM-6          DTSM-6                                                                       
+S9   DTSM-6         DTSM-6          DTSM-6                                                                       
+S10  DTSM-6         DTSM-6          DTSM-6                                                                       
+S11  DTSM-6         DTSM-6          DTSM-6                                                                       
+S12  DTSM-6         DTSM-6          DTSM-6                                                                       
+S13  DTSM-6         DTSM-6          DTSM-6                                                                       
+S14  DTSM-6         DTSM-6          DTSM-6                                                                       
+S15  DTSM-6         DTSM-6          DTSM-6                                                                       
+S16  DTSM-6         DTSM-6          DTSM-6                                                                       
+SV1                 FE20-1          FE20           FEMALE HEADER                             unknown    unknown  
